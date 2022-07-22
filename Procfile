@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run get_and_plot_lat_lon.py
